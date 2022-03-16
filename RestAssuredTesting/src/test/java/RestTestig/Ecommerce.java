@@ -12,7 +12,7 @@ public class Ecommerce {
 	public static String message;
 	public static String accessToken;
 	public static String Delid;
-	@Test(priority = 0)
+	@Test(priority = 0, enabled = false)
 	
 	public void Signup()
 	{
